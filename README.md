@@ -5,7 +5,7 @@ This project is a solution to a Frontend Mentor challenge and focuses on layout,
 
 🚀 Live Demo
 
-👉 Add your deployed link here (GitHub Pages / Netlify)
+👉<a href="https://jamjamkusuma16.github.io/Social-Links-Profile-Card/">Demo</a>
 
 📸 Preview
 
@@ -43,7 +43,7 @@ Improve accessibility (ARIA labels)
 Convert into React component
 
 🙋‍♀️ Author
-GitHub: https://github.com/JamjamKusuma16
+GitHub: https://github.com/JamjamKusuma16<br>
 Name: Kusuma Jamjam
 
 📜 Acknowledgements
